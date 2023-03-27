@@ -1,0 +1,24 @@
+/**
+	* @name HackerMan
+	* @author DaTaklaCatto#2207
+	* @description An amazing customizable discord theme.
+	* @version 0.0.1
+	* @invite inviteCode
+	* @authorId 832922325149810688
+	* @website https://nadid-wasique.netlify.app
+	* @source https://github.com/DaTaklaCatto/Hackerman-BetterDiscord-Theme
+*/
+
+:root {
+	/* Theme Colors */
+	--viridian: #47896Eff;
+	--brunswick-green: #224E3Eff;
+	--night: #14161Aff;
+	--hookers-green: #738B81ff;
+	--dark-spring-green: #217756ff;
+	--light-blue: #A6CDD0ff;
+	--gunmetal: #212D27ff;
+	--brunswick-green-2: #375044ff;
+	--eerie-black: #192227ff;
+	--eerie-black-2: #202321ff;
+}
