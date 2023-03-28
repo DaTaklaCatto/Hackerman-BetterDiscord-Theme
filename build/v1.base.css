@@ -193,35 +193,7 @@
   position: relative;
   width: auto;
 }
-@keyframes rainbow {
-  0% {
-    -webkit-filter: hue-rotate(0);
-    -moz-filter: hue-rotate(0);
-    -ms-filter: hue-rotate(0);
-    filter: hue-rotate(0);
-  }
-  100% {
-    -webkit-filter: hue-rotate(360deg);
-    -moz-filter: hue-rotate(360deg);
-    -ms-filter: hue-rotate(360deg);
-    filter: hue-rotate(360deg);
-  }
-}
-.item-2LIpTv {
-  animation: var(--unread-server-animation) 3s linear infinite;
-  border: 2px solid var(--main-theme-color);
-  background: 0 0;
-  border-radius: 100%;
-  display: block;
-  margin-left: 0;
-  margin-top: 0;
-  position: absolute;
-  top: -2px;
-  right: 3px !important;
-  width: 48px;
-  height: 48px !important;
-  transform: none !important;
-}
+
 .wrapper-1_HaEi
   .scroller-3X7KbA
   > div.listItem-GuPuDH:nth-child(1)
